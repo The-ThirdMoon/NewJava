@@ -1,7 +1,6 @@
 import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-
 import javax.sound.midi.InvalidMidiDataException;
 import javax.sound.midi.MidiSystem;
 import javax.sound.midi.MidiUnavailableException;
